@@ -9,8 +9,6 @@ This project is a browser-based implementation of the classic "Hangman" game, bu
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
 
-317 x 393
-
 
 ## Demo
 <img src="https://github.com/user-attachments/assets/b654595f-cd79-42dd-9478-7061c34bb312" width="317" height="393" />
