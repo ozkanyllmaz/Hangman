@@ -10,9 +10,9 @@ This project is a browser-based implementation of the classic "Hangman" game, bu
 - [Future Improvements](#future-improvements)
 
 ## Demo
-![Ekran görüntüsü 2024-08-13 114214](https://github.com/user-attachments/assets/c7ea4cd2-16c3-436d-8a59-0b0766aed379) 
-![Ekran görüntüsü 2024-08-13 114233](https://github.com/user-attachments/assets/bd44ccf0-0a31-4158-885d-d0048bab4991)
-![Ekran görüntüsü 2024-08-13 114314](https://github.com/user-attachments/assets/f926cc07-1bb0-4ff0-91ef-ebd98f12c6f1)
+![Ekran görüntüsü 2024-08-13 114214](https://github.com/user-attachments/assets/c7ea4cd2-16c3-436d-8a59-0b0766aed379) ![Ekran görüntüsü 2024-08-13 114233](https://github.com/user-attachments/assets/bd44ccf0-0a31-4158-885d-d0048bab4991) ![Ekran görüntüsü 2024-08-13 114314](https://github.com/user-attachments/assets/f926cc07-1bb0-4ff0-91ef-ebd98f12c6f1)
+
+
 
 
 
