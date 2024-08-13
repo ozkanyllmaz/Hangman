@@ -10,7 +10,7 @@ This project is a browser-based implementation of the classic "Hangman" game, bu
 - [Future Improvements](#future-improvements)
 
 ## Demo
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/user-attachments/assets/f926cc07-1bb0-4ff0-91ef-ebd98f12c6f1" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/b654595f-cd79-42dd-9478-7061c34bb312" width="200" height="400" />
 
 
 ## Overview
