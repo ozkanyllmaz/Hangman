@@ -10,12 +10,15 @@ This project is a browser-based implementation of the classic "Hangman" game, bu
 - [Future Improvements](#future-improvements)
 
 ## Demo
-## Demo
-<img src="https://github.com/user-attachments/assets/b654595f-cd79-42dd-9478-7061c34bb312" width="200" height="250" style="margin-right: 50px;" />
-<img src="https://github.com/user-attachments/assets/a14c97ba-90e9-44f9-bb1a-0b566f8058de" width="200" height="250" style="margin-right: 50px;" />
-<img src="https://github.com/user-attachments/assets/225c9b5a-59e9-4f7f-9cda-c24e8d89286d" width="200" height="250" />
-
-
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/b654595f-cd79-42dd-9478-7061c34bb312" width="200" height="250" />
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/a14c97ba-90e9-44f9-bb1a-0b566f8058de" width="200" height="250" />
+</div>
+<div style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/225c9b5a-59e9-4f7f-9cda-c24e8d89286d" width="200" height="250" />
+</div>
 
 ## Overview
 The Hangman Game allows players to guess a hidden word by entering letters. If the player guesses incorrectly too many times, they lose the game. If they guess the word correctly, they win.
