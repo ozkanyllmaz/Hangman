@@ -11,13 +11,13 @@ This project is a browser-based implementation of the classic "Hangman" game, bu
 
 
 ## Demo
-<img src="https://github.com/user-attachments/assets/b654595f-cd79-42dd-9478-7061c34bb312" width="317" height="393" />
+<img src="https://github.com/user-attachments/assets/b654595f-cd79-42dd-9478-7061c34bb312" width="303" height="360" />
 &nbsp;
 &nbsp;
-<img src="https://github.com/user-attachments/assets/a14c97ba-90e9-44f9-bb1a-0b566f8058de" width="317" height="393" />
+<img src="https://github.com/user-attachments/assets/a14c97ba-90e9-44f9-bb1a-0b566f8058de" width="303" height="360" />
 &nbsp;
 &nbsp;
-<img src="https://github.com/user-attachments/assets/225c9b5a-59e9-4f7f-9cda-c24e8d89286d" width="317" height="393" />
+<img src="https://github.com/user-attachments/assets/225c9b5a-59e9-4f7f-9cda-c24e8d89286d" width="303" height="360" />
 
 
 ## Overview
